@@ -1,0 +1,12 @@
+E.V. (Aivi) — Prototipo móvil 0.2
+
+Para instalar:
+1. Descomprime el ZIP.
+2. Publica los archivos en un alojamiento HTTPS (no se instala directamente desde el ZIP).
+3. Abre la dirección en Chrome Android o Safari iPhone.
+4. Android: menú > Instalar aplicación / Añadir a pantalla de inicio.
+5. iPhone: Safari > Compartir > Añadir a pantalla de inicio.
+
+Incluye interfaz móvil, navegación inferior, chat de demostración, hora, cálculo sencillo, voz del navegador y base PWA.
+
+Limitaciones: reconocimiento de voz no está disponible en todos los navegadores (especialmente puede faltar en Safari iOS); la voz depende del sistema. «Hola ALEX» no escucha permanentemente: primero hay que pulsar el micrófono. IA real, Google Calendar, llamadas, alarmas nativas y sincronización aún no están conectadas.
