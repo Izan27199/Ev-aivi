@@ -1,11 +1,13 @@
-const CACHE = 'ev-mobile-v03';
+const CACHE = 'ev-mobile-v04';
 
 const ASSETS = [
   './',
   './index.html',
   './style.css',
   './app.js',
-  './manifest.webmanifest'
+  './manifest.webmanifest',
+  './icon-192.png',
+  './icon-512.png'
 ];
 
 self.addEventListener('install', event => {
